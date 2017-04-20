@@ -1,2 +1,2 @@
-#**learn-java**
-###_example of learn java_
+#learn-java
+example of learn java
