@@ -12,5 +12,5 @@ import java.lang.annotation.*;
 @Documented
 @Component
 public @interface MyComponent {
-    String value() default "";
+  String value() default "";
 }
