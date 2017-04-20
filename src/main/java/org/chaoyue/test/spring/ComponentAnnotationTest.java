@@ -1,4 +1,4 @@
-package org.chaoyue.spring;
+package org.chaoyue.test.spring;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.annotation.Configuration;
